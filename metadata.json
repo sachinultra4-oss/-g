@@ -1,0 +1,6 @@
+{
+  "name": "Grand Palace Hotel",
+  "description": "A quiet heritage boutique hotel with sunlit courtyard rooms, seasonal dining, and restorative gardens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
